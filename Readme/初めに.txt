@@ -1,0 +1,5 @@
+初めに
+
+「TitleScene」及び「GameScene」において、マテリアルが正常に作動していな
+かった場合、「Package Manager」から「Universal RP」のインストールを
+宜しくお願いします。
