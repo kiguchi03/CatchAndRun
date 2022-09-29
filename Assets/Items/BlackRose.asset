@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f822d794ced1f4ab8bf36464508f24db, type: 3}
+  m_Name: BlackRose
+  m_EditorClassIdentifier: 
+  gameObj: {fileID: 4332880127214287313, guid: 2cf12b3371c9c49e694677af9f11a7b0, type: 3}
+  flagData: {fileID: 11400000, guid: b7ec938dfeae24ecda125171b3b8ce58, type: 2}
+  itemID: 0
+  sprite: {fileID: 21300000, guid: 025b21a3fdca8452d86835906e2f12dc, type: 3}
+  roseColor: 0
+  roseMessage: Put Black Rose in The Black Vine.

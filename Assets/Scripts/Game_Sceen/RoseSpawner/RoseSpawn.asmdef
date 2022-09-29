@@ -1,0 +1,17 @@
+{
+    "name": "RoseSpawn",
+    "rootNamespace": "",
+    "references": [
+        "GUID:98dc3cae6b812479bb6f093c92bf879e",
+        "GUID:c738879a8a173437e9cd336ba449da34"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

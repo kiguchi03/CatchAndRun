@@ -1,0 +1,20 @@
+{
+    "name": "Vase",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3b56fcdd7ee6f40098f5bd042818f79f",
+        "GUID:c738879a8a173437e9cd336ba449da34",
+        "GUID:75d999d877d5e468093a1d9c7ddd7450",
+        "GUID:1b6e7c2f5fa624a96bc41886364ee671",
+        "GUID:98dc3cae6b812479bb6f093c92bf879e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

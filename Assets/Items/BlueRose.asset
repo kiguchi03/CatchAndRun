@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f822d794ced1f4ab8bf36464508f24db, type: 3}
+  m_Name: BlueRose
+  m_EditorClassIdentifier: 
+  gameObj: {fileID: 7901979520520158236, guid: dcc231722fcb04ddcb91c0d62662742f, type: 3}
+  flagData: {fileID: 11400000, guid: c8b32db53d3a54ad78765b69ac247ac7, type: 2}
+  itemID: 1
+  sprite: {fileID: 21300000, guid: 950885d1662dd4911bf94df65004fc1e, type: 3}
+  roseColor: 1
+  roseMessage: Put a Blue Rose in The Blue Vine.

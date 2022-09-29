@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f822d794ced1f4ab8bf36464508f24db, type: 3}
+  m_Name: RedRose
+  m_EditorClassIdentifier: 
+  gameObj: {fileID: 1107581472482419957, guid: c51c001b33c75438d9f67a70411a60cb, type: 3}
+  flagData: {fileID: 11400000, guid: 44158b5e604df4f23af64573642dbdd7, type: 2}
+  itemID: 3
+  sprite: {fileID: 21300000, guid: be49ae64d8d9a423aba04d59e964283d, type: 3}
+  roseColor: 3
+  roseMessage: Give Red Rose to her.
